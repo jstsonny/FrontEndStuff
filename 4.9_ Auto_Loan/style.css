@@ -1,0 +1,77 @@
+/* Define default fonts */
+body {
+    font-family: Roboto, Helvetica, sans-serif;
+}
+
+/* Heading styles */
+h1 {
+    font-size: 16px;
+    color: #444444;
+}
+
+/* Container class */
+.container {
+    text-align: center;
+    margin: 5px;
+    font-size: 13px;
+}
+
+/* Offer styles */
+.offer {
+    display: inline-block;
+    width: 400px;
+    margin: 4px;
+    text-align: center;
+    border: 1px solid #cccccc;
+}
+
+/* Offer title styles */
+.offer-title {
+    font-size: 14px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #00b3b3;
+    margin: 0;
+    padding: 15px;
+}
+
+/* Offer contents styles */
+.offer-contents {
+    padding: 20px;
+    background-color: #fafafa;
+}
+
+/* Table styles */
+table {
+    width: 100%;
+    background-color: #ffffff;
+    border-spacing: 0;
+}
+
+/* Table header cell styles */
+th {
+    font-weight: bold;
+    font-size: 12px;
+    color: #777777;
+    padding: 10px;
+    margin: 0;
+    text-align: left;
+    border-bottom: 1px solid #f1f1f1;
+}
+
+/* Table data cell styles */
+td {
+    font-weight: lighter;
+    font-size: 13px;
+    color: #444444;
+    padding: 20px 10px;
+    margin: 0;
+    text-align: left;
+    border-bottom: 1px solid #f1f1f1;
+}
+
+/* Final-value class styles */
+.final-value {
+    font-weight: bold;
+    color: #2222ff;
+}
